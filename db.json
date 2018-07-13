@@ -1,15 +1,5 @@
 {
     "overallStatus": {
       "status": "S"
-    },
-    "listAccountDetails" :{
-      "accountInfo" :[{
-    "accountKeys": [{"stdAccountId": "005310188000033"}],
-	"productId": "savings",
-	"accountName":"HCA 4M 4M XU6MD",
-	"customerShortDetails" : [{"customerId":"05300061","customerName":"46 46 XU6MD"}]
-	}]},
-    "acctBalances" : {
-      "availableBalance": [{"AccountBalance": "1754039.06","BalanceCurrency":"MMK"}]
     }
   }
