@@ -1,5 +1,5 @@
 {
-	"customerID" : {"custId":"05300061",
+	"customerID" : [{"custId":"05300061",
 			"customerName":"46 46 XU6MD"
 		},
 		{"custId":"04300061",
