@@ -1,7 +1,5 @@
-{	
-		
-		
-			"listAccountDetails" :[{
+{
+	"listAccountDetails" :[{
 				"id" :1,
 				"select" : "true",
 				"accountInfo" :	{		
