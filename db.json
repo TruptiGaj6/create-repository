@@ -1,22 +1,17 @@
-{
-	
+{	
 	"searchAccountRs" : {
 		"rsHeader" : {
 			"status" :[{
 				"overallStatus" :"S",
 				"codes" :{
-					"code" :{
-							
-						}
+					"code" :""
 					}
-			],
+			},
 			"overallStatus" :"E",
 				"codes" :{
-					"code" :{
-							
-						}
+					"code" :""
 					}
-			}
+			}]
 		},
 		"searchAccountDetails" :{
 			"listAccountDetails" :[{
