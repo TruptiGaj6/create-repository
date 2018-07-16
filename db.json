@@ -47,7 +47,7 @@
 							
 					}
 			},
-			"select" : "false",
+				{"select" : "false",
 				"accountInfo" :	{		
 					"acctBasicDetails" :	{
 						"accountKeys" : {
