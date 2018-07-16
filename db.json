@@ -2,13 +2,11 @@
 	"custAccountDetail" : [{"id":1,
 				"custId":"05300061",
 			"customerName":"46 46 XU6MD",
-			"accountKeys": [{"stdAccountId": "005310188000033"}],
 			"productId": "Samrt Account"
 		},
 		{"id":2,
 		 "custId":"10089637",
 			"customerName":"46 46 XU6MD4",
-			"accountKeys": [{"stdAccountId": "005310188000013"}],
 			"productId": "current"
 		}
         ]
