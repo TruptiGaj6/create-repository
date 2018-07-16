@@ -1,19 +1,6 @@
 {	
-	"searchAccountRs" : {
-		"rsHeader" : {
-			"status" :[{
-				"overallStatus" :"S",
-				"codes" :{
-					"code" :""
-					}
-			},
-				   {"overallStatus" :"E",
-				"codes" :{
-					"code" :""
-					}
-			}]
-		},
-		"searchAccountDetails" :{
+		
+		"custAccountDetail" :{
 			"listAccountDetails" :[{
 				"select" : "true",
 				"accountInfo" :	{		
@@ -81,6 +68,5 @@
 					}
 			}
 		}]
-	}
-	}					
+	}				
 }
