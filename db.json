@@ -1,7 +1,8 @@
 {	
 		
-		"custAccountDetail" :{
+		
 			"listAccountDetails" :[{
+				"id" :1,
 				"select" : "true",
 				"accountInfo" :	{		
 					"acctBasicDetails" :	{
@@ -35,7 +36,9 @@
 					}
 				}
 			},
-				{"select" : "false",
+				{
+					"id" :2,
+					"select" : "false",
 				"accountInfo" :	{		
 					"acctBasicDetails" :	{
 						"accountKeys" : {
@@ -67,6 +70,5 @@
 							
 					}
 			}
-		}]
-	}				
+		}]		
 }
