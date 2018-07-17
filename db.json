@@ -1,72 +1,16 @@
 {	
 		"custAccountDetail" :
 		[{"id":1,
-		"listAccountDetails" :[{
+		
 				"select" : "true",
-				"accountInfo" :	{		
-					"acctBasicDetails" :	{
-						"accountKeys" : {
 							"standardAccountId" : "005344124500030",
-							"pseudonym" :{
-								"isoCurrencyCode":"MMK"
-							},
-							"externalAccountId" :"05331500030",
-							"inputAccount" :{
-								"inputAccountId" :"005344124500030"
-							}
-						},
+							
 						"productId" :"SmartAccount",
-						"subProductId" :"21007RETAILMMK",
 						"accountName" :	"HCA 4M 4M XU6MD",
-						"customerShortDetails" :{
 							"customerId" :"05300061",
 							"customerName" :"46 46 XU6MD",
-							"partyType" :"1062"
-						},
 						"currency" :"MMK",
-						"hostBranchCode" :	"00000053"					
-				},
-				"acctBalances" :{
-						"availableBalance" :{
 							"AccountBalance" :"1754039.06",
 							"BalanceCurrency" :"MMK"
-						}
-							
-					}
-				}
-			},
-				{"select" : "false",
-				"accountInfo" :	{		
-					"acctBasicDetails" :	{
-						"accountKeys" : {
-							"standardAccountId" : "005310263500212",
-							"pseudonym" :{
-								"isoCurrencyCode":"MMK"
-							},
-							"externalAccountId" :"05331500030",
-							"inputAccount" :{
-								"inputAccountId" :"005310263500212"
-							}
-						},
-						"productId" :"CurrentAccount",
-						"subProductId" :"21007RETAILMMK",
-						"accountName" :	"HCA XUCDHC2 CYD8 &amp; HCA 46 46 XU6MD",
-						"customerShortDetails" :{
-							"customerId" :"05300061",
-							"customerName" :"46 46 XU6MD",
-							"partyType" :"1062"
-						},
-						"currency" :"MMK",
-						"hostBranchCode" :	"00000053"					
-				},
-				"acctBalances" :{
-						"availableBalance" :{
-							"AccountBalance" :"1754039.06",
-							"BalanceCurrency" :"MMK"
-						}
-							
-					}
-			}
-		}]
 	}]				
 }
