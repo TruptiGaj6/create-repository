@@ -1,8 +1,7 @@
 {	
 "custAccountDetail" :
 		[{"id":1,
-			"_listAccountDtlsList" :[{
-				"select" : "true",
+			
 							"standardAccountId" : "005344124500030",
 							
 						"productId" :"SmartAccount",
@@ -12,7 +11,6 @@
 						"currency" :"MMK",
 							"AccountBalance" :"1754039.06",
 							"BalanceCurrency" :"MMK"
-			}
-		]
+
 	}]					
 }
