@@ -1,15 +1,15 @@
 {	
 		"custAccountDetail" :
 		[{"id":1,
-							"standardAccountId" : "005344124500030",
-							
+							"standardAccountId" : "005344124500030",							
 						"productId" :"SmartAccount",
-						"accountName" :	"HCA 4M 4M XU6MD",
-							"customerId" :"05300061",
-							"customerName" :"46 46 XU6MD",
-						"currency" :"MMK",
-							"AccountBalance" :"1754039.06",
-							"BalanceCurrency" :"MMK"
+						"accountName" :	"HCA 4M 4M XU6MD"
+			
+	},
+		{"id":2,
+							"standardAccountId" : "005344124500030",							
+						"productId" :"SmartAccount",
+						"accountName" :	"HCA 4M 4M XU6MD"
 			
 	}]				
 }
