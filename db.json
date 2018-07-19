@@ -1,6 +1,6 @@
 {	
 		"custAccountDetail" :
-		{
+		[{
 			"id" : 1,
 				"select" : "true",
 							"standardAccountId" : "005344124500030",
@@ -12,5 +12,5 @@
 						"currency" :"MMK",
 							"AccountBalance" :"1754039.06",
 							"BalanceCurrency" :"MMK"
-		}				
+		]}				
 }
