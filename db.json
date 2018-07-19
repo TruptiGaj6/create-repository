@@ -1,6 +1,7 @@
 {	
 		"custAccountDetail" :
 		{
+			"id" : 1,
 				"select" : "true",
 							"standardAccountId" : "005344124500030",
 							
