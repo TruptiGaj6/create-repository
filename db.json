@@ -1,7 +1,6 @@
 {	
 		"custAccountDetail" :
-		[{"id":1,
-			"_listAccountDtlsList" :[{
+		{
 				"select" : "true",
 							"standardAccountId" : "005344124500030",
 							
@@ -12,17 +11,5 @@
 						"currency" :"MMK",
 							"AccountBalance" :"1754039.06",
 							"BalanceCurrency" :"MMK"
-			},
-						 {"select" : "true",
-							"standardAccountId" : "005344124500031",
-							
-						"productId" :"Savingccount",
-						"accountName" :	"HCA 4M 4M XU6MD",
-							"customerId" :"05300061",
-							"customerName" :"46 46 XU6MD",
-						"currency" :"MMK",
-							"AccountBalance" :"1754039.06",
-							"BalanceCurrency" :"MMK"}
-		]
-	}]				
+		}				
 }
